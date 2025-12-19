@@ -19,3 +19,5 @@ This project is a Python-based web application that allows users to upload PDF d
 ## Team Collaboration
 This project is developed collaboratively as part of an internship Task.
 
+## Setup
+Create venv and install dependencies from requirements.txt.
