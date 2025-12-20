@@ -1,194 +1,73 @@
-- | . Hl . ro 1 ae . t. . |
-oe eet : ~ a e. a - . ; _ ; ; ’
-~ oe _— . . we ; ~ ; . . a.
-. “oe . . . . . wr,
-8 Co . . ° “y . ¢ a . ar
-“ . . “sete : se we . cd 4
-. . . . . . Cd . ~~
-rr ot . ss . Lo a a) * “ot . :
-, . . . - ee . s 6 fee
-. An suc “v—-so oF CO . om
-‘- oo ad ao PTO << omunmn “~ ww _ wo .
-“SS =ee aos oco9f8 2585 Bras 28°08 o2e29%5 ~~ & om xs OS
-= =a < seo 8S ao) a) cs>*o rc >
-. . La a, a w 5 w 5 = \ Qa oF 7 “n .
-»- _3s 2g. 830 Ze 2ceaq na®e®*e ,—-ys3y29 oan 52a 2 o re) Zz -o
-~awo o> 35s a ° oso => ota o a 3 a” 2 o> z <=
-eres saes g8$ Sos8a5 2ESB FSokos SFHRSER 8 F GF FE
-SSSXrS$735 68S VROQRSD Emde e+5ESEn 2789870 2 2 —-
--§SeSece 3. g8B 289222 FHS Feeas FENR2S ZF & Bz
-os 3° 7 o [6(OUS US eas aBas “o©£P2o 5 8aa00 o®’*Yac 3 rsY) P| o Ww
-an) 5 20 a>. Sa 0 o ots +o sg = os3a XX OR yg 3 Y way. OC
-1A g: om G) a:na 55 a3sPF=Zo wo 0 + Me Poo as ooh. ® =. oa Ne
-q ‘sg 0 ‘ = anon e~erngs oo 7“) CoC 3 0 Qa ow = b=
-. =. ony ° ST Vo o%™G mE oof’ = oR om wy ™. STs 6g 08 o .. 0 . Ww
-<5 oO wy Cc. ov osa ia 533530% SPaoTs oo os » + >
-=_ 7 4 ® =a > ao T= PSF H. 82RBG SW CE S3e¢fa=u Oo -
-Te 582 Fe sg s3Sc 33 rs 2£ S58 4 z
-“ Oo S>ae << 3a <9 = =. o < => o- 7vanr o Oo @ ow < :
-rT) -—-<s oF o » Oo COG tr a “Ao a A DY ~asvoes ° >
-ae $50 €. YZES 2345739: e*r&s SHF8F gla93as. § 2
-a re = = © “ ov" © o 3 es ee Sc 0 o oO nS > o . .
-© ao 5 %. Sw» a AeBuA™® Za VG a 307.5 © =EZqg2 8B -
+*
+*
+‘ .
+’ %
+Section A (40 Marks)
+Question One
+a) Define mobile device forensics and explain its importance in digital investigations.
+(4marks)
+b) Describe the main steps involved in the mobile device forensic process. (4marks)
+c) Explain two common challenges faced during mobile device forensic investigations.
+(4marks)
+d) Briefly discuss the role of SIM cards in mobile device forensics. (4marks)
+e) Explain how mobile operating systems (Android and iOS) affect forensic analysis. (4
+marks)
+f) Discuss the significance of preserving the integrity of mobile evidence during an
+investigation. (4marks).
+g) What are mobile application forensics, and why is it critical in investigations? (4mks)
+h) Explain two methods used to extract data from mobile devices. (4mks)
+i) Why is chain of custody important in mobile device forensic investigations? (4 marks)
+j) Briefly describe the role of mobile device logs in digital forensics. (4marks)
+A
+{ ete Sane aie at a
 
-o—- TS Bay nn ® si Ww O-? o ; Qa .
-< a r¥) on © a a?) _- Y) CG w ) ms
-gi7ze2 8, 283 2FaenoF Bear FRAFE shea ss-3 3 |
+7. B (60 Marks)
+Question Two
+a) Describe two mobile forensics data acquisition methods, including scenarios and tools used. (6
+marks)
+b) Mobile forensics faces evolving challenges due to rapid advancements in technology and
+increasing digital crimes. With reference to this, answer the following:
+i. Identify two challenges related to mobile password security and encryption. (2 marks)
+ii. List two essential tools or equipment used in mobile forensics investigations. (2 marks)
+iii. Explain how variations in mobile operating systems impact forensic investigations and
+how investigators address them. (3 marks)
+iv. Briefly explain two anti-forensics techniques used to evade mobile forensic analysis. (2
+marks)
+y. Describe the responsibilities of device manufacturers and software developers in supporting
+mobile forensic investigations. (4 marks)
+Question Three
 
-=> ®. oo xX —’ Q =. Se S595 8 5 >YAa< 26 08 s BR
-of, 28> 5s. a4e@e RZowmoas AYES 2SOFS TyaFoS F Es
-ce so8 8° F3— SSsees sbee FFSRO FFRE8S 3 =
-- fan a =. =.09 5 re) a = S = —_
-aw a 4 => sme @ =>aQ@us 8 23 O,-O0 5 oR PSBqg = a ; :
-a) o. Psa we NO ao S2Q9Q°'u xu PTB o < $s 2a ow t _
-Sa -SSea 2 ABe ESHER S 25658 BSRoe S7RRB8R- S  -
-3 3 ore 9 F252 %*352=0980 3 ©5353 ry} Peo Fe4usga ® a De
-32.8033 8 ®9S7% FAG GFZPS QEtea zreOR®., SRzRRG DB _
-So - ao 264 s 2oaecCc er ee a2aln< eager ~ @ae< OZ oo. : ,
-oo, 845. 8: 82 RS eon ATTS FFusgk SHZS52: 8 |
-- a . . -= . —_>_— = © e on: -_: < & - git - . oo
-3s > 2 © > o < oo Ss) “an S a< 3 :
-gm F252 3: 85 c2hen S85 s 28SnF aSgexge. vw ~ . of
-7 $8 B84 8285S S35 Sxeess Se3Rhz2 F- oy
-wo 0 sZt ». awd fC£Oe¢e “a aot 3 0 > g z= = WS. J.
-o ¢ ~~ a ® “Si. @ ; 3. ¢ bay eco< > n oto Ss =nOnG — ; .
-@ 34 +a o.: = - e539 S23 o 2 > 2. =e ogg a a
-a < A c- 3 =. < os 3 3 re) Sao0s 2a - oo:
-7) 5 a OO = ra) io} . o 3 Sea o eage yy c ie.
-3c cas *wwus S . os < ® = o are ssa 08 2gsaak oD 7 - 0 i
-o.3 bs 7S A238 ao Bunce >a SZSadi-s Nn C ‘
-< ow: <x Za 5 #8 Qaec -a0> 7 of Coss FG ‘ oye
-Oo =— o-. ; = o ® .: ‘oo ZSusv o oO ~-COA,w ®& DU—~na = Oo -. ad 7 an
-w on oO . & wo 2a = GH 00 r=" c of ON . -,
-ee £83 5 Fe. gazes SSS 2857: eASees ee ae
-' :@ — rw Oss c © a, © of ~% ae
-us Sas a * = ® a ° 3 pa 9 O@ 3 => ae
-vu o:2 6G om @ se 5 oo pa G) — > *
-re < ~ of 82a0a8 Zgs oa esa aoaSa ao ied
-VY mw =< $ O°"; —~- oO ~o 7 > 6 ry a tus aq B 3s 3 ors HW : . :
-o ww 6 S$. — on “=a = 530 © TOY’ aA \ ee ;
-wv Oo.- = ae 0 # O < oa 2 @ 3 = ~~ BetrtqQgsg. .
-S44 «<5 => Fee 0 3B saef8s 223. @XCrTD 424nEOCX wo,
-a ¢ Su GB © ao opteza: 9 FS. QoHoo0 cRroey . ‘ a
-o> £20 . 3 Oo ORG wee> *So5fm gersSt=ge-
-@ @ o oF a . “ 3°05 c 3 >
-~S na oo | 9 s$AQsee OMo.+, ARAD eotrmas 8 .
-= Q=6 ° a 2 zoeoe2s 32> » > BOnS SF 4. Lo
-ou Owe ‘ * Sosa%3 32.00 ~- =VEeo s%&3 8c.
-+O Vus =. ce «< avrasad ome - “wo<on Pe fC5ZNG -
-c= rm OC oa a © 2 © ad < 3 - Cz 2 o o% GO . ‘
-2 x oUsz uw ~€3 <0 $ ows . &£SsRe ~~ SA Qq 5 . a -~
-2 S 2 = o rv og e x =) > at = Oo o 3 > iS} © ae 2 o = 3° mo, . * o
-=~ c —-— > 3 < . on csnwad ° os f& | .«*t ad
-sz~ Fs Be $8258 $855 e809 PRSAaz- sh
-_ + =. = CS s c > - s - . , . ,
-. = Ree as §ShES 883 FSF 888s - a
-. oe a= . o a4) -QC aR Oo 28 +: | eo,
-, -_ “ ° .s vet ee _— , .
-an . . . ye i . oo, t
-a . . ‘oN, .. . me :
-~ . a - —_ wee cs St . , « ~ .
-. Meow cee aes ny . ; ;
-Al ’ + : ° . wee wre : tae 7
-.
+a) Write short notes on the following concepts as used in mobile forensics
+i. Logical Extraction (4 Marks)
 
-~ 4 ~ . .
-oe . 7 : “ - .
-ae -t ay Loe + . ; . : sas. —.
-| — . | 328< =. “
-od oe ; 7 : a ot BSR e RmYars
-, vo =.=. a ao oO omy 5 2
-* me per 5 = 3 a0 $435 esse ss
-ee a | ees — 0 pe e = 36 3352 sg2o5a 0
-. : . . - ¢ 77) s te! ra 3 <vs zo “
-. . _ oO Qs “ G oo = 0 wo Fe4¢S88
-; mo ne * . c) mn 3 ~. Fs 2.3 2 o =. sz
-: oaese B83 U 3 3 3 88 oe S82 5838.
-le = ges ere ; A P= md =. o> ° S530 ow
-So “8 8agzs 39 => SO “ 3 ero 328 52% 3
-Oo a o rod ” o ° 3 $28 Q
-a eS2E8S Sfes Oz & e338 - 38 8335880
-a) > “> 2 oD = ' o = 3
-S 8 < Sa8agb Se EER ES m 2 Zs 6 ra) 9S < =a) ano x
-a) ao a Tn ezSZ2 P38 Soc8 nas —_ om | wn. ~ c oO RE2nas
-p= oO o S2853 neaaSeE Ys “ 4% ors <S885a
-c nr 3 rou < a= s 4agee | . 9 2. a n a "ae
-a.) oO > ro) Vv nw PZaee a coal so =| BBe $252 uo >
-o YN © FSzQe 225% > c. ar) 3 oO 3
-~ 3 1 > S$ >2 855 o s 5 a3 > ces zs ¢
-© 5&5 , 2 a 2ad > Wo s : ) . > . - 53 zuaas ®
-~~ ae @ g- co2t Saqgya o ~~ = ga °3u Ss Z24a85
-n o < 4 a< 5 os 8 8oce 2 ~< | =z<ud =a.
-oo - 6a22 2F28958 8 . -_ re fo) — £Og ose32, -~
-Cc _ a 2. 2 Sea: = - ro) " O€ =3 =
-e. f 3 S35 E2 Sash ois 978 3 S85 Beaagee
-. .* o 2 oo — : an?) =
-=> i> € 22853 > gSesgss 8B S$. a ie se oges§
-*° 3 3S asa ca 352° 22g : Os cc. a. a ° M4 <u
-$ : > 2750 C¢ < 0 o i. se SG ~e Su
-2 : rv) =. yy es) c Cc 5 > oe =. © pa o od
-3 3 ot o ory = a 2) oO = + Oo Se
-3 eae CG a ~ 1) c fo) Wn a = 5 a)
-$ $ Cc . =Fo8 sea3 (o) — A] = oO 3 < .
-$ 3 o aoa 5 - > ca ; o 2 zs 5 & s. 3} Zo
-i 3 g 33433 = <= a Oo om ° ae 28 > Bue 833
-3 og agSes2 “ cc 25 ro) ‘2. . ges <6 x oe
-oO a bw = . pm | : 4 o < =
-2 =— oa2FaR5 3 - : @ oO ae o9 = 3 o 22
-: ro} va< 2 “¢C¢e 7) s a ng 2. hy
-3 = =. agaa%>d a. . a (3) tsa D 2 0 6 os 8 oe
-Q) . 3 = J wn
-3 ports “go es88 s° eb BS 4 625 Say $29
-° Hy — <M 56 z “. o 2 re) Ps} — ®
-3 3 . wa Q ~< om oa, = ' 5 @ o oO. oa oO = a.
-fF oP at eges a cc ~ g 8 - $23 23 3
-; : © F2Gads © ; 5 N° a b< ees Doe
-:  y~ © SSeeeR =. . - << -o =-s ct, 7S a 5°
-i. ys 25808 a - 2 re ees 2285 aa
-po. OE Aw o eB wi, =. a
-3 3 ad ae C88 . - : . ~~ _.7 $28 2 oo < oo
-(omb@ #2285 3 8 cee G28 2835
-3. 3 ow! “5 7u - S - "a B® =av = 20
-3 : @ E2uwa 2. = ols UG ® & 5 0
-3 : a Ce . o = a = 5 Go Xe
-Eg: i> 3 e225 a ° gogo 3Sa3 cae
-oO 3 “ ~ 538 - . < > S<¢2 s° 6 7S
-oO ios gy “pae2° . ; . . <. a aa_as Doe Sark
-Bis fa 8 R : > gs 523 58 ee
-= | 5 _. ; c =. 4
-fi g Baga 5 8. ® 29 g22 889
-: ° : . ° - oe _ 3 @
-iy Gg e353 | 9 " 3 £0 Bess $5
-: : 7 Gayo C_™/ g a fSm— ga > 335
-$ -, > > “oy . ~< Co eae o wo oO ca @.
-B : rs) ~gsee oan a) om £. 2 Qac¢ge — —_
-io tf 68 ~as a ~ BO 235 282 <3 3
-ro | _ a6 . ry) @ cog 330 2 5
-—~ ° en 3 a 3 5 2 = Ss QR 3
-5 Ea | > agg oO Ss ° (8 @ in <ga < 45
-pi 3 $36 3 os = Ree ssE $33
-i 2 =) os a — > ws ~ ©
-» yy} o os — ' ; a. ro tr 2 © 5
-2 fo ow 36 2 , 7g 8 eo”. 2 “Se §
-4 3 ah 5328 ~ . x re] 352. e -
-cs ; oO ana - - : . ~ & et a o OO
-3 — ao. I <5 . zs
-: w 4a0 -. . —] a
-s PP or oY) . Oo - ° LY
-op og ages | ae a
-+ : ry) - & Cc : - - he ~
-> 3 ar . . ; . |
-a . = oan o . . ~ _ e@ Loe
-> 3 Q) o 3 - . nn oar a
-PY 3 3 a . . . ' . . . ‘ a
-5 ; > SOS 3 _ Lo a
-4 3 oo. . ; - an a oo. a
-g oo oo. oo, _ ~~
-! . a :
-& . . . moe .
-T1 . oe
-ed
-an soda]
-re ot wep
-. . ; m~ yy oe
-° |
+ii. Physical Extraction (4 Marks)
+iii. Rule of Evidence (4 Marks)
+
+b) While conducting your forensic duties, you are presented with an exhibit bag containing a
+mobile phone and a sim card separately. Discuss the forensic actions that you would take
+and further explain the effects of inserting the SIM Card onto the mobile phone device
+(4Marks)
+
+c) List four anti-forensics techniques that criminals use to circumvent mobile forensics
+analysis (4 Marks)
+
+Question Four
+
+a) Describe issues that should be factored during transportation of an acquired mobile
+device from the scene of crime (10Marks)
+
+b) State the mechanisms that can be used to protect mobile operating systems from attacks
+(10 Marks)
+
+4
+2
+a Pe ea *
+wae 7 ). eo
+
+as =
+Question Five
+a) Examine the legal and ethical challenges encountered in mobile device forensic
+investigations and suggest possible solutions. (10marks)
+b) With examples, describe the tools commonly used in mobile device forensics and
+evaluate their strengths and weaknesses. (10 marks)
+GOOD LUCK

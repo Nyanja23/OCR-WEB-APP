@@ -1,6 +1,9 @@
+click==8.3.1
+jiwer==4.0.0
 numpy==2.2.6
 opencv-python==4.12.0.88
 packaging==25.0
 pdf2image==1.17.0
 pillow==12.0.0
 pytesseract==0.3.13
+RapidFuzz==3.14.3
