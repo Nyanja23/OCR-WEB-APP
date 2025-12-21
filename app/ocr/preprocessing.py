@@ -17,10 +17,6 @@ def preprocess_image(image):
 
     return thresh
 
-
-def improved_preprocess(image):
-    import cv2
-
 def improved_preprocess(image):
     # image is RGB from np.array(PIL_page)
     gray = cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)
