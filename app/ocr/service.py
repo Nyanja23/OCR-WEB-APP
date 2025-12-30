@@ -2,15 +2,22 @@ from .pdf_loader import load_pdf_as_images
 from .preprocessing import preprocess_image, improved_preprocess
 from .ocr_engine import extract_text_from_image
 
-def extract_text_from_pdf(pdf_path):
+def extract_text_from_file(file_path, use_improved=True,lang='eng'):
 
-    images = load_pdf_as_images(pdf_path)
+    images = load_pdf_as_images(file_path)
 
-    all_text = []
+    page_texts = []
 
-    for page in images:
-        processed = improved_preprocess(page)
-        text = extract_text_from_image(processed)
-        all_text.append(text)
+    for image in images:
+        if use_improved:
+            processed = improved_preprocess(image)
+        else:
+            processed = preprocess_image(image)
+        
+        text = extract_text_from_image(processed, lang=lang).strip()
+        
+        page_texts.append(text)
     
-    return "\n".join(all_text)
+    full_text = '\n\n'.join(page_texts)
+    
+    return full_text, page_texts
