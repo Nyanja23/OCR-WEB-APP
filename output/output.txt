@@ -1,0 +1,73 @@
+*
+*
+‘ .
+’ %
+Section A (40 Marks)
+Question One
+a) Define mobile device forensics and explain its importance in digital investigations.
+(4marks)
+b) Describe the main steps involved in the mobile device forensic process. (4marks)
+c) Explain two common challenges faced during mobile device forensic investigations.
+(4marks)
+d) Briefly discuss the role of SIM cards in mobile device forensics. (4marks)
+e) Explain how mobile operating systems (Android and iOS) affect forensic analysis. (4
+marks)
+f) Discuss the significance of preserving the integrity of mobile evidence during an
+investigation. (4marks).
+g) What are mobile application forensics, and why is it critical in investigations? (4mks)
+h) Explain two methods used to extract data from mobile devices. (4mks)
+i) Why is chain of custody important in mobile device forensic investigations? (4 marks)
+j) Briefly describe the role of mobile device logs in digital forensics. (4marks)
+A
+{ ete Sane aie at a
+
+7. B (60 Marks)
+Question Two
+a) Describe two mobile forensics data acquisition methods, including scenarios and tools used. (6
+marks)
+b) Mobile forensics faces evolving challenges due to rapid advancements in technology and
+increasing digital crimes. With reference to this, answer the following:
+i. Identify two challenges related to mobile password security and encryption. (2 marks)
+ii. List two essential tools or equipment used in mobile forensics investigations. (2 marks)
+iii. Explain how variations in mobile operating systems impact forensic investigations and
+how investigators address them. (3 marks)
+iv. Briefly explain two anti-forensics techniques used to evade mobile forensic analysis. (2
+marks)
+y. Describe the responsibilities of device manufacturers and software developers in supporting
+mobile forensic investigations. (4 marks)
+Question Three
+
+a) Write short notes on the following concepts as used in mobile forensics
+i. Logical Extraction (4 Marks)
+
+ii. Physical Extraction (4 Marks)
+iii. Rule of Evidence (4 Marks)
+
+b) While conducting your forensic duties, you are presented with an exhibit bag containing a
+mobile phone and a sim card separately. Discuss the forensic actions that you would take
+and further explain the effects of inserting the SIM Card onto the mobile phone device
+(4Marks)
+
+c) List four anti-forensics techniques that criminals use to circumvent mobile forensics
+analysis (4 Marks)
+
+Question Four
+
+a) Describe issues that should be factored during transportation of an acquired mobile
+device from the scene of crime (10Marks)
+
+b) State the mechanisms that can be used to protect mobile operating systems from attacks
+(10 Marks)
+
+4
+2
+a Pe ea *
+wae 7 ). eo
+
+as =
+Question Five
+a) Examine the legal and ethical challenges encountered in mobile device forensic
+investigations and suggest possible solutions. (10marks)
+b) With examples, describe the tools commonly used in mobile device forensics and
+evaluate their strengths and weaknesses. (10 marks)
+GOOD LUCK

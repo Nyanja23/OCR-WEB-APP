@@ -1,7 +1,13 @@
 #Virtual environments
 env
+env/
+ocr-env/
+venv/
+.venv/
 
 # Python cache
 
 __pycache__/
+*.pyc
+pycache
 *.pyc

@@ -129,7 +129,27 @@ async function processFile() {
             
             // Update status
             fileStatus.textContent = 'Processing complete';
-            
+             
+                // === PAGE-BY-PAGE PREVIEW FEATURE ===
+                // Displays a concise preview of the first 200 characters from each page
+                // Helps users quickly navigate and verify OCR results on multi-page documents
+                const pagesContainer = document.getElementById('pagesContainer');
+                pagesContainer.innerHTML = '';  // Clear any old previews
+                
+                data.pages.forEach((text, i) => {
+                    const div = document.createElement('div');
+                    div.className = 'page-item';
+                    div.innerHTML = `
+                        <h5>Page ${i+1} <i class="fas fa-file"></i></h5>
+                        <p class="page-preview">${text.substring(0, 200).trim()}...</p>
+                    `;
+                    pagesContainer.appendChild(div);
+                });
+                
+                document.getElementById('pagesPreview').style.display = 'block';
+
+                // === END OF PAGE-BY-PAGE PREVIEW FEATURE ===
+
             showToast('Text extracted successfully!', 'success');
             
             // Hide progress after delay
