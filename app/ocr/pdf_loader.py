@@ -8,4 +8,4 @@ def load_pdf_as_images(file_path):
         pages = convert_from_path(file_path)  # Single image as "page"
 
     # Pages is a py list of OpenCv-compatible images of each Page of the Provided PDF
-    return [np.array(page) for page in pages]
+    return [np.array(page) for page in pages] # An image represented as numbers instead of pixels on screen best for OpenCv to process

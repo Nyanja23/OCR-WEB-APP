@@ -4,7 +4,7 @@ from .ocr_engine import extract_text_from_image
 
 def extract_text_from_file(file_path, use_improved=True,lang='eng'):
 
-    images = load_pdf_as_images(file_path)
+    images = load_pdf_as_images(file_path) # This is a Python list of NumPy arrays, where each NumPy array represents one page of the PDF as an image.
 
     page_texts = []
 
