@@ -24,11 +24,9 @@ def improved_preprocess(image):
     # Light edge-preserving denoising
     denoised = cv2.bilateralFilter(gray, d=9, sigmaColor=75, sigmaSpace=75)
     
-    # Contrast Limited Adaptive Histogram Equalization — great for photos
+    # Contrast Limited Adaptive Histogram Equalization, best for photos
     clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
     enhanced = clahe.apply(denoised)
     
-    # Optional: very mild upscale if text appears small (helps Tesseract)
-    # enhanced = cv2.resize(enhanced, None, fx=1.3, fy=1.3, interpolation=cv2.INTER_LINEAR)
     
     return enhanced  # Grayscale — no binarization!

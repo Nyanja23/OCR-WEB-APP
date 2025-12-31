@@ -132,9 +132,8 @@ async function processFile() {
              
                 // === PAGE-BY-PAGE PREVIEW FEATURE ===
                 // Displays a concise preview of the first 200 characters from each page
-                // Helps users quickly navigate and verify OCR results on multi-page documents
                 const pagesContainer = document.getElementById('pagesContainer');
-                pagesContainer.innerHTML = '';  // Clear any old previews
+                pagesContainer.innerHTML = '';  
                 
                 data.pages.forEach((text, i) => {
                     const div = document.createElement('div');
