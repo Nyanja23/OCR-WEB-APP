@@ -21,3 +21,13 @@ This project is developed collaboratively as part of an internship Task.
 
 ## Setup
 Create venv and install dependencies from requirements.txt.
+
+python -m venv venv
+source venv/bin/activate / venv\scripts\activate, On Windows
+
+# install dependencies
+pip install -r requirements.txt
+
+# run flask server
+python app.py | python ./app/app.py
+
